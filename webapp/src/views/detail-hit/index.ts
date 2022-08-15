@@ -1,0 +1,1 @@
+export { DetailHit } from "./DetailHit";

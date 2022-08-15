@@ -1,0 +1,172 @@
+[
+{
+    "model": "hitmen.user",
+    "pk": 1,
+    "fields": {
+        "password": "pbkdf2_sha256$216000$5qpP3r0Qeyp5$wDxgrtTfGfvzS20HLHN22+v5npLLMIU2Mjqyc7e6/1U=",
+        "last_login": null,
+        "is_superuser": false,
+        "email": "boss@boss.com",
+        "first_name": "Adrian",
+        "last_name": "Romo",
+        "hitman_type": "boss",
+        "manager": null,
+        "is_active": true,
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "hitmen.user",
+    "pk": 2,
+    "fields": {
+        "password": "pbkdf2_sha256$216000$D3SKeWhHEyaV$TJWGTQ5JpYJetSTSC9ICUNKeALBF7cGagZjc51gjjco=",
+        "last_login": null,
+        "is_superuser": false,
+        "email": "manager1@manager.com",
+        "first_name": "Manager 1",
+        "last_name": "Manager 1",
+        "hitman_type": "manager",
+        "manager": 1,
+        "is_active": true,
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "hitmen.user",
+    "pk": 3,
+    "fields": {
+        "password": "pbkdf2_sha256$216000$5XRBJYtO51pi$9CHd4eAhtzRQ3UMtKOz206JFEhpBCyrW0Q6TGIfaOyk=",
+        "last_login": null,
+        "is_superuser": false,
+        "email": "manager2@manager.com",
+        "first_name": "Manager 2",
+        "last_name": "Manager 2",
+        "hitman_type": "manager",
+        "manager": 1,
+        "is_active": true,
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "hitmen.user",
+    "pk": 4,
+    "fields": {
+        "password": "pbkdf2_sha256$216000$vboNnd3HucNB$yf8WGNn0dpo67JtA5u7u+gk9sKN7LkxxhMFMT8cmU8k=",
+        "last_login": null,
+        "is_superuser": false,
+        "email": "manager3@manager.com",
+        "first_name": "Manager 3",
+        "last_name": "Manager 3",
+        "hitman_type": "manager",
+        "manager": 1,
+        "is_active": true,
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "hitmen.user",
+    "pk": 5,
+    "fields": {
+        "password": "pbkdf2_sha256$216000$IPFpQuKQ3NMf$e0osgOaSITsa+VIB9nGhbduPhtzA3ozfe3feaNFk7nU=",
+        "last_login": null,
+        "is_superuser": false,
+        "email": "manager4@manager.com",
+        "first_name": "Manager 4",
+        "last_name": "Manager 4",
+        "hitman_type": "manager",
+        "manager": 1,
+        "is_active": true,
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "hitmen.user",
+    "pk": 6,
+    "fields": {
+        "password": "pbkdf2_sha256$216000$sUIuzHZSztFd$D2RtQdXQ2NTQEKgs0KzE7Muu+MDj8LMwA99yKc1kfF4=",
+        "last_login": null,
+        "is_superuser": false,
+        "email": "hitman1@hitman.com",
+        "first_name": "Hitman 1",
+        "last_name": "Hitman 1",
+        "hitman_type": "hitman",
+        "manager": 2,
+        "is_active": true,
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "hitmen.user",
+    "pk": 7,
+    "fields": {
+        "password": "pbkdf2_sha256$216000$5T670M3TotS9$pFl087fxpcfv+v41LhbdEvg3QqiCfOM/OrpEFkIWTfw=",
+        "last_login": null,
+        "is_superuser": false,
+        "email": "hitman2@hitman.com",
+        "first_name": "Hitman 2",
+        "last_name": "Hitman 2",
+        "hitman_type": "hitman",
+        "manager": 2,
+        "is_active": true,
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "hitmen.user",
+    "pk": 8,
+    "fields": {
+        "password": "pbkdf2_sha256$216000$dqMFiC8oHmYq$pXUHzE4Teb2AgV48LINpcrqQATkvUX1CcO9ng7bssKU=",
+        "last_login": null,
+        "is_superuser": false,
+        "email": "hitman3@hitman.com",
+        "first_name": "Hitman 3",
+        "last_name": "Hitman 3",
+        "hitman_type": "hitman",
+        "manager": 3,
+        "is_active": true,
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "hitmen.user",
+    "pk": 9,
+    "fields": {
+        "password": "pbkdf2_sha256$216000$LE5OQeNfIA8u$ILnVNc2djp9DKP4I0s19VFjA49HWTFOCeOzzHjOHnEU=",
+        "last_login": null,
+        "is_superuser": false,
+        "email": "hitman4@hitman.com",
+        "first_name": "Hitman 4",
+        "last_name": "Hitman 4",
+        "hitman_type": "hitman",
+        "manager": 4,
+        "is_active": true,
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "hitmen.user",
+    "pk": 10,
+    "fields": {
+        "password": "pbkdf2_sha256$216000$LE5OQeNfIA8u$ILnVNc2djp9DKP4I0s19VFjA49HWTFOCeOzzHjOHnEU=",
+        "last_login": null,
+        "is_superuser": false,
+        "email": "hitman5@hitman.com",
+        "first_name": "Hitman 5",
+        "last_name": "Hitman 5",
+        "hitman_type": "hitman",
+        "manager": 5,
+        "is_active": false,
+        "groups": [],
+        "user_permissions": []
+    }
+}
+]

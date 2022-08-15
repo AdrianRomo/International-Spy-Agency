@@ -1,0 +1,1 @@
+export { DetailHitForm } from "./DetailHitForm";

@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "services/*": ["./src/shared/services/*"],
+      "interfaces/*": ["./src/shared/interfaces/*"]
+    }
+  }
+}
