@@ -1,6 +1,6 @@
 # International Spy Agency
 
-We’re building a simple tool for an international spy agency. The agency conducts
+Simple tool for an international spy agency. The agency conducts
 planned assassinations and has done so for decades. But it needs a new system
 to assign assassinations (“hits”).
 The general user is a hitman. He can be assigned a hit and see it on his list of
